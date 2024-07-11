@@ -16,7 +16,7 @@ Root Checker is an Android application that checks if a device has root access. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/root-checker.git
+    git clone https://github.com/ily123950/root-checker.git
     ```
 
 2. Open the project in Android Studio.
@@ -35,4 +35,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto.ily123950950@gmail.com).
